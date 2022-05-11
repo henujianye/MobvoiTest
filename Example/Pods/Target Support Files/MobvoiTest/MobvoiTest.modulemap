@@ -1,0 +1,6 @@
+framework module MobvoiTest {
+  umbrella header "MobvoiTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
